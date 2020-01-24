@@ -1,2 +1,2 @@
 # tec-PINBALL
-TEC-1 controller for old scholl Pinball
+TEC-1 controller for old school Pinball
